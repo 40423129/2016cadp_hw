@@ -28,7 +28,7 @@
 <v t="leo.20151212173725.1"><vh>@edit pelicanconf.py</vh></v>
 <v t="amd.20151215170221.1"><vh>以下 local_publishconf.py 為近端所使用的設定</vh></v>
 <v t="leo.20151213085752.1"><vh>@edit local_publishconf.py</vh></v>
-<v t="amd.20151215121740.1"><vh>@path theme</vh>
+<v t="amd.20151215121740.1" a="E"><vh>@path theme</vh>
 <v t="amd.20151215154950.1" a="E"><vh>@path pelican-bootstrap3_local</vh>
 <v t="amd.20151215154950.2" a="E"><vh>@path templates</vh>
 <v t="amd.20151215154950.3"><vh>@edit base.html</vh></v>
@@ -41,7 +41,7 @@
 </v>
 </v>
 <v t="amd.20151215170326.1"><vh>以下在修改或查驗 plugin 目錄下的檔案</vh></v>
-<v t="amd.20151215154225.1"><vh>@path plugin</vh>
+<v t="amd.20151215154225.1" a="E"><vh>@path plugin</vh>
 <v t="amd.20151215154238.1" a="E"><vh>@path tipue_search</vh>
 <v t="amd.20151215154248.1"><vh>@edit tipue_search.py</vh></v>
 </v>
@@ -54,9 +54,12 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="leo.20161020081629.1"><vh>@edit 20160929.md</vh></v>
-<v t="leo.20161110121701.1"><vh>@edit 20161007.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit note.md</vh></v>
+<v t="leo.20161020081629.1"><vh>@edit homework.md</vh></v>
+<v t="leo.20161229163804.1"><vh>@edit 4.md</vh></v>
+<v t="leo.20161229163759.1"><vh>@edit solvepace練習.md</vh></v>
+<v t="leo.20161229163810.1"><vh>@edit 1201組合圖.md</vh></v>
+<v t="leo.20161229163812.1"><vh>@edit 1222 3D印表機.md</vh></v>
 </v>
 </v>
 </v>
